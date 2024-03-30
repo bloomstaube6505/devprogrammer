@@ -1,0 +1,33 @@
+{
+  "name": "devprogrammer",
+  "version": "1.0.2",
+  "description": "devprogrammer",
+  "type": "module",
+  "main": "devprogrammer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bloomstaube6505/devprogrammer"
+  },
+  "website": "https://github.com/bloomstaube6505/devprogrammer.git",
+  "keywords": [
+    "devprogrammer"
+  ],
+  "author": "bloomstaube6505",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bloomstaube6505/devprogrammer/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/bloomstaube6505/devprogrammer#readme",
+  "dependencies": {
+    "codescriptwiz": "1.0.2",
+    "scriptcodesavvy": "1.0.2",
+    "codementor": "1.0.2"
+  }
+}
